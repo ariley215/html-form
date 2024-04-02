@@ -22,21 +22,21 @@ In this exercise, you’ll create a basic log in form for the Little Lemon websi
 
 **Step 9:** Add an id attribute to the input element. Ensure that the for attribute of the label is set to match the id.✅
 
-**Step 10:** Add the required and minlength attributes to the input element. Set the minlength attribute value to 2 so that the field requires a minimum text length of 2.
+**Step 10:** Add the required and minlength attributes to the input element. Set the minlength attribute value to 2 so that the field requires a minimum text length of 2.✅
 
-**Step 11:** Add a name attribute to all input elements.
+**Step 11:** Add a name attribute to all input elements.✅
 
-**Step 12:** After the second div element, add a button element containing the text "Log In".
+**Step 12:** After the second div element, add a button element containing the text "Log In".✅
 
-**Step 13:** Set the type attribute of the button element to submit.
+**Step 13:** Set the type attribute of the button element to submit.✅
 
-**Step 14:** Save the HTML document and open it in Live Preview.
+**Step 14:** Save the HTML document and open it in Live Preview.✅
 
-**Step 15:** Click the Log In button and note if the form submits successfully. The form submits successfully when no errors are displayed and the content of the form resets.
+**Step 15:** Click the Log In button and note if the form submits successfully. The form submits successfully when no errors are displayed and the content of the form resets.✅
 
-**Step 16:** Add one character of text to both input fields. Again, click the Log In button and note if the form submits successfully.
+**Step 16:** Add one character of text to both input fields. Again, click the Log In button and note if the form submits successfully.✅
 
-**Step 17:** Type the text "admin" in the username field. Then type the text "password" in the password field. Click the Log In button and note if the form submits successfully.
+**Step 17:** Type the text "admin" in the username field. Then type the text "password" in the password field. Click the Log In button and note if the form submits successfully.✅
 
 ## Tips
 
